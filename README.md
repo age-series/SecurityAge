@@ -1,2 +1,2 @@
 # SecurityAge
-Security Age
+To secure your bases, chests, doors from others players.
