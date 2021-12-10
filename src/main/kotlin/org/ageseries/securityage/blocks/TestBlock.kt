@@ -7,4 +7,7 @@ import net.minecraft.world.level.material.Material
 // /setblock ~ ~-1 ~ securityage:test_block
 class TestBlock : Block(Properties.of(Material.STONE)) {
     override fun getDescriptionId() = "block.securityage.test_block"
+
+
+
 }
